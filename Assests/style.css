@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1350px;
+}
+.flexdiv{
+    justify-content: center;
+}
+.flexdiv1{
+    display: flex;
+}
+.flexgap{
+    gap: 20px;
+}
+.lineheight{
+    line-height: 4rem;
+}
+.headerdiv{
+    background: #f9f6e2;
+}
+.textdiv{
+    margin: 0 auto;
+    padding: 138px;
+}
+
+.bodycontainer{
+    padding: 104px;
+}
+.bodysection{
+    background: #f8f8f8;;
+}
+.productcatelog{
+    margin-top: 20px;
+}
+.productcategory{
+    padding-bottom: 37px;
+}
+.imgdiv{
+    border: none;
+    background: white;
+    border-radius: 15px;
+    padding: 40px 40px;
+}
+.flexdiv1 .productlistpadding{
+    text-align: center;
+}
+.imgheightset{
+    max-height: 37px;
+}
+.RatingImgdiv{
+    margin-top: 10px;
+}
+h1{
+    font-size: 30px;
+    max-width: 267px;
+}
+h3{
+    text-align: center;
+}
+.btn{
+    border: none;
+    background: #e424b0;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 6px
+}
+p{
+    font-weight: bold;
+}
+.productimgdiv{
+    background: #f8f8f8;
+    padding: 20px 20px;
+}
+.sidebar{
+    margin-top: 86px;
+}
+.inputFiledGap{
+    gap: 5px;
+}
+.sidebarcontent{
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+.cartcontainer{
+    background: white;
+    border-radius: 5px;
+    margin-top: 49px;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.productlist{
+    border-bottom-style: inset;
+    line-height: 2rem;
+}
+.pricelist{
+    line-height: 2rem;
+    border-bottom-style: inset;
+}
+.MakePurchaseBtndiv{
+    padding-left: 51px;
+}
+.MakePurchaseBtn{
+    width: 72%;
+    margin-top: -8px;
+}
